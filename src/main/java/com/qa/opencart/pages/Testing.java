@@ -4,7 +4,7 @@ public class Testing {
 	
 	public static void main(String[] argd) {
 		
-		String p = "rahul";
+		String p = "Rahul";
 	}
 
 }
