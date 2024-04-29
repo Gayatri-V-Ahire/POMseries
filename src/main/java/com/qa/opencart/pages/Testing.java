@@ -1,8 +1,8 @@
 package com.qa.opencart.pages;
 
 public class Testing {
-	
-	public static void main(String[] argd) {
+	int i =20 30;
+	public static void main(String[] arg) {
 		
 		String p = "rahul";
 	}
